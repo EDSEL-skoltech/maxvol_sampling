@@ -1,0 +1,6 @@
+scipy
+numpy
+osgeo
+ipython
+cython
+

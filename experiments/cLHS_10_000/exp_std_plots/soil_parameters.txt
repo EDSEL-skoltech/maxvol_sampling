@@ -1,0 +1,1 @@
+Moisture_perc_10 	Moisture_perc_30 	Moisture_perc_80 	mean_yeild_c_per_ha 	pen_resist_10 	pen_resist_30 	pen_resist_80 	temp_10 	temp_30 	temp_80

@@ -1,0 +1,1 @@
+python maxvol_sampling.py --max_n_pnts 15 --min_n_pnts 15 --path_to_DEM ../DEM_files/10_3857_5m.tif --path_to_DEM_features ../DEM_files/ndvi_features --dist_pts 0.1
