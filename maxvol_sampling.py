@@ -7,8 +7,8 @@ import os
 import subprocess
 import csv
 
-from util import add_coords, gen_input, points_selection, f_no_cut, f_cut_eps, idx_to_idx
-from util import rect_maxvol_cut, f_no_cut, f_penal_2D
+from src.util import add_coords, gen_input, points_selection, f_no_cut, f_cut_eps, idx_to_idx
+from src.util import rect_maxvol_cut, f_no_cut, f_penal_2D
 def data_preparation(path_to_dem, path_to_features, data_m, dem_dir):
     """
     Function to orginize tif files in flatten vectos, remove NaN and stack vectors into matrix

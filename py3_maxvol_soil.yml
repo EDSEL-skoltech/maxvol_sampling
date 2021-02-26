@@ -1,0 +1,20 @@
+name: maxvol_soil_sampling
+channels:
+  - conda-forge 
+dependencies:
+- matplotlib
+- scipy
+- scikit-learn
+- numpy
+- pandas
+- python=3.6
+- gdal
+- requests
+- ipython
+- cython
+- jupyter
+- pip
+- pip:
+  - maxvolpy
+
+
