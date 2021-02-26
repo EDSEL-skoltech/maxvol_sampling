@@ -26,11 +26,11 @@ To plot results of comparison of MaxVol, cLHS and Simple Random Sampling open `P
 
 ## Dependencies 
 
-maxvolpy - MaxVol python
+**maxvolpy** - MaxVol python
 
 https://pypi.org/project/maxvolpy/
 
-Whitebox-tools - advanced geospatial data analysis
+**Whitebox-tools** - advanced geospatial data analysis
 
 https://jblindsay.github.io/wbt_book/intro.html
 
@@ -51,7 +51,7 @@ Activate it
 
 ## Usage example
 
-To run multi-objective MaxVol soil sampling based on test data
+To run MaxVol soil sampling based on test DEM, terrain features and NDVI
 
 `./run_maxvol.sh --path_to_file ./DEM_files/dem.tif --path_to_output ./terrain --number_of_points 15`
 
