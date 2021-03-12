@@ -51,9 +51,9 @@ Activate it
 
 ## Usage example
 
-To run MaxVol soil sampling based on test DEM, terrain features and NDVI
+To run MaxVol soil sampling based on test DEM, terrain features and NDVI:
 
-`./run_maxvol.sh --path_to_file ./DEM_files/dem.tif --path_to_output ./terrain --number_of_points 15`
+`$bash run_maxvol.sh --path_to_file ./DEM_files/dem.tif --path_to_output ./terrain --number_of_points 15`
 
 ## Meta
 
