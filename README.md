@@ -1,16 +1,16 @@
 # MaxVol soil sampling
 > MaxVol soil sampling based on environmental features - DEM, TWI, Slope, NDVI.
 
-[![License](https://img.shields.io/github/license/EDSEL-skoltech/multi_objective_irrigation)](https://github.com/EDSEL-skoltech/multi_objective_irrigation/blob/main/LICENSE)
-[![issues](https://img.shields.io/github/issues/EDSEL-skoltech/multi_objective_irrigation)](https://github.com/EDSEL-skoltech/multi_objective_irrigation/issues)
-[![stars](https://img.shields.io/github/stars/EDSEL-skoltech/multi_objective_irrigation)](https://github.com/EDSEL-skoltech/multi_objective_irrigation/stargazers)
+[![License](https://img.shields.io/github/license/EDSEL-skoltech/maxvol_sampling)](https://github.com/EDSEL-skoltech/maxvol_sampling/blob/main/LICENSE)
+[![issues](https://img.shields.io/github/issues/EDSEL-skoltech/maxvol_sampling)](https://github.com/EDSEL-skoltech/maxvol_sampling/issues)
+[![stars](https://img.shields.io/github/stars/EDSEL-skoltech/maxvol_sampling)](https://github.com/EDSEL-skoltech/maxvol_sampling/stargazers)
 [![Rg](https://img.shields.io/badge/ResearchGate-Follow-green)](https://www.researchgate.net/project/Digital-Agro)
 
 
 Description 
 
 
-![graphical](plots/computers_and_geosciences/comparison_map_as.png)
+![graphical](plots/computers_and_geosciences/README.png)
 
 ## Google Colab 
 
