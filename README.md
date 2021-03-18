@@ -10,7 +10,7 @@
 Description 
 
 
-![graphical](plots/computers_and_geosciences/README.png)
+![graphical](plots/agricultural_systems/README.png)
 
 ## Google Colab 
 
