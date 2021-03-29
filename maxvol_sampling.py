@@ -118,4 +118,4 @@ if __name__ == '__main__':
     y_idx, x_idx = y_c[result],x_c[result]
     coord_idx = np.hstack((y_idx,x_idx))
     print('Done!')
-    np.savetxt('maxvol_result_'+str(len(result))+'.csv', coord_idx, delimiter=';')
+    np.savetxt('maxvol_result_'+str(len(result))+'.csv', np.round(coord_idx, decimals=6), delimiter=';')
