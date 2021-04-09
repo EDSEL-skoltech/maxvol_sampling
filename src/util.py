@@ -8,9 +8,9 @@ import matplotlib.pyplot as plt
 from scipy.spatial import ConvexHull, convex_hull_plot_2d
 from numpy import genfromtxt
 import pandas as pd
-import gdal
+from osgeo import gdal
 import os
-import xarray as xr
+#import xarray as xr
 import clhs as cl
 import csv
 import numpy as np

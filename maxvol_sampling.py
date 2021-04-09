@@ -1,6 +1,7 @@
 import argparse
 import numpy as np
-import osgeo.gdal as gdal
+from osgeo import gdal
+#import osgeo.gdal as gdal
 import os
 # from maxvol_cut import rect_maxvol_cut, f_no_cut, f_penal_2D
 # from tools import norm_data, add_coords, gen_input, extend_score, points_selection, f_no_cut, f_cut_eps, calc_score, good_points_brute_force, idx_to_idx

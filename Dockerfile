@@ -7,4 +7,5 @@ RUN DEBIAN_FRONTEND='noninteractive' apt-get update && apt-get upgrade -y --no-i
 
 COPY requirements.txt .
 
-RUN pip install -r requirements.txt && pip install maxvolpy
+RUN pip3 install -r requirements.txt
+RUN pip3 install maxvolpy
