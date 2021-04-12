@@ -1,2 +1,5 @@
 #!/bin/bash
-bash run_maxvol.sh --path_to_file ./DEM_files/dem.tif --path_to_output ./results_folder --number_of_points 15
+for i in {1..12} 
+do
+	bash run_maxvol.sh --path_to_file ./tiff_urupinsk/field_$i.tif --path_to_output ./tiff_urupinsk/result_features_$i --number_of_points 19
+done
